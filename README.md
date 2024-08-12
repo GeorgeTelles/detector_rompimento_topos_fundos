@@ -4,7 +4,7 @@
 
 # detector de rompimento de topos e fundos
 
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>]()
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/GeorgeTelles/detector_rompimento_topos_fundos/blob/main/detector_rompimento_topos_fundos.ipynb)
 
 O projeto é uma ferramenta automatizada que analisa ativos financeiros para identificar e relatar rompimentos de topos e fundos. O sistema monitora vários ativos, detecta quando estes atravessam níveis críticos e gera relatórios sobre quais ativos estão atualmente rompendo topos ou fundos. Ideal para investidores que buscam identificar oportunidades e riscos de mercado de forma eficiente.
 
